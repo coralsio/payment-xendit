@@ -1,0 +1,6 @@
+{
+  "require": {
+    "xendit/xendit-php": "^2.17",
+    "corals/payment": "@dev"
+  }
+}
