@@ -6,7 +6,7 @@
     "description": "Payment Gateway, charges, subscriptions, invoices...",
     "namespace": "Corals\\Modules\\Payment\\Xendit",
     "version": "1.0",
-    "folder": "Xendit",
+    "folder": "payment-xendit",
     "autoload": "psr-4",
     "icon": "fa fa-credit-card",
     "require": {
